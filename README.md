@@ -9,6 +9,7 @@ Download the Atlas Guide.pdf. This has detailed instructions on library installa
 <li>Download, unzip and add to the library : https://github.com/SlashDevin/NeoGPS</li>
 </ol>
 Video of installation is here: https://youtu.be/fOYhWPN2ezQ
+<br>
 Credits: VarSpeedServo-Michael Margolis, FreeSixIMU - Simon d Levy, note I include FreeSixIMU here as this version works with the system rather than the newer version found here (https://github.com/simondlevy/FreeSixIMU2)
 
 ![alt text](https://github.com/swane/atlas/blob/main/Atlas.jpg)
