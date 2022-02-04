@@ -11,6 +11,9 @@ Download the Atlas Guide.pdf. This has detailed instructions on library installa
 <br>
 Video of installation is here: https://youtu.be/fOYhWPN2ezQ
 <br><br>
-Credits: VarSpeedServo-Michael Margolis, FreeSixIMU - Simon d Levy, note I include FreeSixIMU here as this version works with the system rather than the newer version found here (https://github.com/simondlevy/FreeSixIMU2)
+Video of calibrating the compass to GPS positions is : https://youtu.be/bDsg0HpM64o  <br>
+and testing the calibration: https://youtu.be/9ISO-DlGmWQ
+<br><br>
+Software credits: VarSpeedServo-Michael Margolis, FreeSixIMU - Simon d Levy, note I include FreeSixIMU here as this version works with the system rather than the newer version found here (https://github.com/simondlevy/FreeSixIMU2)
 
 ![alt text](https://github.com/swane/atlas/blob/main/Atlas.jpg)
