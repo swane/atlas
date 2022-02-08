@@ -13,6 +13,7 @@ Download the Atlas Guide.pdf. This has detailed instructions on library installa
 <br>
 Video of installation is here: https://youtu.be/fOYhWPN2ezQ
 <br><br>
+Video of calibrating the steering offsets: https://youtu.be/mPYK9m0PjBs  <br>
 Video of calibrating the compass to GPS positions is : https://youtu.be/bDsg0HpM64o  <br>
 and testing the calibration: https://youtu.be/9ISO-DlGmWQ
 <br><br>
