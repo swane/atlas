@@ -16,7 +16,8 @@ Video of installation is here: https://youtu.be/fOYhWPN2ezQ
 Video of calibrating the steering offsets: https://youtu.be/mPYK9m0PjBs  <br>
 Video of calibrating the compass to GPS positions is : https://youtu.be/bDsg0HpM64o  <br>
 and testing the calibration: https://youtu.be/9ISO-DlGmWQ
-<br><br>
+<br>
+Video of navigating to an array of GPS points, program is under Examples-->ATLAS-->NavigateArrayGPS https://youtu.be/vpepbgoRqcg<br>
 Software credits: VarSpeedServo-Michael Margolis, FreeSixIMU2 - Simon d Levy,(https://github.com/simondlevy/FreeSixIMU2)
 
 ![alt text](https://github.com/swane/atlas/blob/main/Atlas.jpg)
