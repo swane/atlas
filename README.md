@@ -21,3 +21,5 @@ Video of navigating to an array of GPS points, program is under Examples-->ATLAS
 Software credits: VarSpeedServo-Michael Margolis, FreeSixIMU2 - Simon d Levy,(https://github.com/simondlevy/FreeSixIMU2)
 
 ![alt text](https://github.com/swane/atlas/blob/main/Atlas.jpg)
+
+<li>Quick zip file for internal use only : https://github.com/swane/atlas/library.zip</li>
