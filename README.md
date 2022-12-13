@@ -22,4 +22,4 @@ Software credits: VarSpeedServo-Michael Margolis, FreeSixIMU2 - Simon d Levy,(ht
 
 ![alt text](https://github.com/swane/atlas/blob/main/Atlas.jpg)
 
-<li>Quick zip file for internal use only : https://github.com/swane/atlas/libraries.zip</li>
+<li>Quick zip file for internal use only : https://github.com/swane/atlas/blob/main/libraries.zip</li>
