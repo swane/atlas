@@ -1,5 +1,6 @@
 # Atlas
 Atlas robot public libraries and user guide
+Recent presentation on the Atlas robot:https://github.com/swane/atlas/blob/main/Research%20Presentation%20ATLAS.pdf <br>
 Download the Atlas Guide.pdf. This has detailed instructions on library installation, summarised below:
 
 <li>Install the IDE from https://www.arduino.cc/en/software</li>
