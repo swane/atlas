@@ -12,6 +12,9 @@ Download the Atlas Guide.pdf. This has detailed instructions on library installa
 
 </ol>
 <br>
+The chassis is built on a Radio Controlled Rock Crawler (any servo motor steer and DC motor or servo motor drive will do including front and rear independant steer and front and read independant drive.
+Available in the UK here : https://www.modelsport.co.uk/product/435354
+<br>
 Video of installation is here: https://youtu.be/fOYhWPN2ezQ
 <br><br>
 Video of calibrating the steering offsets: https://youtu.be/mPYK9m0PjBs  <br>
